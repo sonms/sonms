@@ -13,4 +13,6 @@ I'll do my best. Thank you.
 ![sonms's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonms&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonms&layout=compact&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gs7373)](https://solved.ac/gs7373)
 </div>
