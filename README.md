@@ -14,5 +14,5 @@ I'll do my best. Thank you.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonms&layout=compact&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gs7373)](https://solved.ac/gs733)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gs7373)](https://solved.ac/gs7373)
 </div>
