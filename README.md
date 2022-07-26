@@ -2,7 +2,7 @@
 Hi There~!
 I`m a Android developer.
 <br>
-My main skill are Kotlin, Java, Python, GML
+My main skill are Kotlin, Java
 <br>
 I'll do my best. Thank you.
 <br>
