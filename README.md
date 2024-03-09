@@ -8,7 +8,7 @@ I'll do my best. Thank you.
 <br>
 ✨Tech Stack✨
 <br>
-<img src="https://img.shields.io/badge/Kotlin-blueviolet?style=plastic&logo=Kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=Kotlin&logoColor=7F52FF"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ![sonms's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonms&show_icons=true&theme=dark)
