@@ -10,6 +10,9 @@ I'll do my best. Thank you.
 <br>
 <img src="https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=Kotlin&logoColor=7F52FF"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white">
+
 
 ![sonms's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonms&show_icons=true&theme=dark)
 
