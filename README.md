@@ -21,5 +21,5 @@ I'll do my best. Thank you.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gs7373)](https://solved.ac/gs7373)
   
-<a href="https://opgc.me/#/users/sonms" target="_blank"><img src="https://api.opgc.me/githubs/users/sonms/tag/?theme=basic" /></a>  
+<!--<a href="https://opgc.me/#/users/sonms" target="_blank"><img src="https://api.opgc.me/githubs/users/sonms/tag/?theme=basic" /></a>-->
 </div>
