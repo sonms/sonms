@@ -25,21 +25,6 @@
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
 </p>
 
-### 🏗️ Architecture & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-4ECDC4?style=for-the-badge&logo=android&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/Google%20Recommended%20Architecture-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Recommended Architecture"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
 ### 📚 Also Experienced With
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
