@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;MVVM+%7C+Clean+Architecture;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
