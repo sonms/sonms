@@ -36,6 +36,27 @@
 
 ---
 
+## 🎤 Speaker
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOPT-37th?style=for-the-badge&color=000000&logo=book&logoColor=white" alt="SOPT 37th"/>
+</p>
+
+### **SOPT 37th Miminar — Type-Safety Navigation**
+<p align="center">
+  <em>Speaker: 손민성</em> · <strong>Topic:</strong> Type-Safety Navigation in Android (Kotlin + Jetpack Compose) 
+</p>
+
+## 📄 Presentation
+
+<p align="center">
+  <a href="https://almond-moose-828.notion.site/OB-JetPack-Navigation-with-Type-Safety-280943825b7480a991edf8a9ebc9b084" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-View%20Presentation-black?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
