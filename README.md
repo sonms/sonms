@@ -35,6 +35,10 @@
 <br>
 
 ---
+## 🏆 Awards
+<b>🏆[Sopt- Dive Sopt] 37th - AppJam Demoday - 1st prize Team-Kiero</b>
+
+---
 
 ## 🎤 Speaker
 
@@ -55,6 +59,7 @@
   </a>
 </p>
 
+
 ---
 
 ## 📊 GitHub Statistics
@@ -68,7 +73,7 @@
 
 ---
 
-## 🏆 Problem Solving
+## ✨ Problem Solving
 
 <div align="center">
   <a href="https://solved.ac/gs7373" target="_blank">
