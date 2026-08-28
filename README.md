@@ -1,102 +1,33 @@
-<div align="center">
+## 몰입의 즐거움으로 개발하는 안드로이드 개발자 손민성입니다
 
-# 👋 Hi There~!
-### I'm a passionate **Android Developer** 📱
+### Career
+* [(주)투비원솔루션즈](https://www.2beone.net/) - Android Developer (연구개발부 연구원) 2025.09 - ing
 
-<br>
+### Open Source
+- Maintainer - [Velvet-Compose](https://github.com/sonms/Velvet-Compose) - Compose 커스텀 UI 라이브러리, Maven Central 배포
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+&nbsp;
 
-<br>
+- Contributor - [DroidKaigi/conference-app-2026](https://github.com/DroidKaigi/conference-app-2026/pull/132)
+- Contributor - [PokeTokenBar](https://github.com/chattymin/PokeTokenBar/pull/159)
+- Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/478)
 
-> **✨ "I'll do my best. Thank you." ✨**
+### Speaker
+* [SOPT](https://www.sopt.org/) - Webinar & Seminarx
+   * [코루틴, 요리사 한 명이 여러 요리를 동시에 하는 비결](https://app.notion.com/p/35d943825b748005b253d8abfdeef749?source=copy_link)
+   * [Type-Safety Navigation](https://almond-moose-828.notion.site/OB-JetPack-Navigation-with-Type-Safety-280943825b7480a991edf8a9ebc9b084)
 
-<br>
+### Experience
+* [SOPT Makers](https://makers.sopt.org/)
+   * 38th Sub Leader & Android Chapter Leader, 2026
+   * 37th Android Chapter Member, 2025
 
----
+* [SOPT](https://sopt.org/)
+   * 37th Android Part OB, 2025
+   * 36th Android Part YB, 2025
 
-## 🚀 Tech Stack
+* [GDGoc(전 GDSC)](https://github.com/GDSC-Daejin) - Client Part Leader, 2023
 
-### 💪 Main Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-</p>
+### Awards
 
-### 📚 Also Experienced With
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-</p>
-
-<br>
-
----
-## 🏆 Awards
-<b>🏆[Sopt- Dive Sopt] 37th - AppJam Demoday - 1st prize Team-Kiero</b>
-
----
-
-## 🎤 Speaker
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SOPT-37th?style=for-the-badge&color=000000&logo=book&logoColor=white" alt="SOPT 37th"/>
-</p>
-
-### **SOPT 37th Miminar — Type-Safety Navigation**
-<p align="center">
-  <em>Speaker: 손민성</em> · <strong>Topic:</strong> Type-Safety Navigation in Android (Kotlin + Jetpack Compose) 
-</p>
-
-## 📄 Presentation
-
-<p align="center">
-  <a href="https://almond-moose-828.notion.site/OB-JetPack-Navigation-with-Type-Safety-280943825b7480a991edf8a9ebc9b084" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-View%20Presentation-black?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-</p>
-
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonms&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonms&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<br>
-
----
-
-## ✨ Problem Solving
-
-<div align="center">
-  <a href="https://solved.ac/gs7373" target="_blank">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=gs7373" alt="Solved.ac Profile"/>
-  </a>
-</div>
-
-<br>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonms&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling"/>
-</div>
-
-</div>
+* 🏆 SOPT Appjam 앱 부문 대상 - [Kiero](https://github.com/Team-Kiero/Kiero-Android) (2026.01)
