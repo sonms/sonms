@@ -23,8 +23,8 @@
    * 37th Android Chapter Member, 2025
 
 * [SOPT](https://sopt.org/)
-   * 37th Android Part OB, 2025
-   * 36th Android Part YB, 2025
+   * 37th Android Part OB - [Repo](https://github.com/37-dive-sopt-android/minseong-son), 2025
+   * 36th Android Part YB - [Repo](https://github.com/AT-SOPT-ANDROID/minseong-son), 2025
 
 * [GDGoc(전 GDSC)](https://github.com/GDSC-Daejin) - Client Part Leader, 2023
 
