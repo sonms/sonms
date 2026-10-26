@@ -4,7 +4,10 @@
 * [(주)투비원솔루션즈](https://www.2beone.net/) - Android Developer (연구개발부 연구원) 2025.09 - ing
 
 ### Open Source
-- Maintainer - [Velvet-Compose](https://github.com/sonms/Velvet-Compose) - Compose 커스텀 UI 라이브러리, Maven Central 배포
+- Maintainer - [Velvet-Compose](https://github.com/sonms/Velvet-Compose)
+  - iOS 스타일 **3D WheelPicker**(무한 스크롤, 그래픽 레이어)와 스프링 애니메이션·햅틱을 지원하는 **RatingBar를** Jetpack Compose로 구현
+  - **화면 배경에 따라 상태바·내비게이션바 아이콘 색을 자동 조정**하는 SystemBars 모듈 개발
+  - **Modifier.Node 보일러플레이트(ModifierNodeElement + 확장 함수)를 자동 생성**하는 KSP 프로세서 제작
 
 &nbsp;
 
